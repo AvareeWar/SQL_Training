@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3215dc84-34eb-4f17-8eef-6c66e106b851" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/SQL_QUERY/Asian_Population.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SQL_QUERY/Weather_Obersvation_Warning_7.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SQL_QUERY/Weather_Obervation_Warning.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SQL_QUERY/Weather_Observation_Warning_6.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SQL_QUERY/Weather_Observation_Warning_8.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SQL_QUERY/Weather_Observation_Warning_9.sql" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SQL_QUERY/Average_Population_Of_Each_Continent.sql" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Revising_the_Select_Query_1.sql" afterPath="$PROJECT_DIR$/SQL_QUERY/Revising_the_Select_Query_1.sql" />
-      <change beforePath="$PROJECT_DIR$/Weather_Obervation_Warning.sql" afterPath="$PROJECT_DIR$/SQL_QUERY/African_City.sql" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="African_City.sql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="African_City.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SQL_QUERY/African_City.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="10" column="71" lean-forward="false" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Average_Population_Of_Each_Continent.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SQL_QUERY/Average_Population_Of_Each_Continent.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -103,6 +105,7 @@
         <option value="$PROJECT_DIR$/SQL_QUERY/Weather_Observation_Warning_6.sql" />
         <option value="$PROJECT_DIR$/SQL_QUERY/Asian_Population.sql" />
         <option value="$PROJECT_DIR$/SQL_QUERY/African_City.sql" />
+        <option value="$PROJECT_DIR$/SQL_QUERY/Average_Population_Of_Each_Continent.sql" />
       </list>
     </option>
   </component>
@@ -143,10 +146,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,6 +341,54 @@
     <entry file="file://$PROJECT_DIR$/SQL_QUERY/Weather_Observation_Warning_9.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL_QUERY/Weather_Observation_Warning_6.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL_QUERY/Asian_Population.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL_QUERY/African_City.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="71" lean-forward="false" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL_QUERY/Weather_Obersvation_Warning_7.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL_QUERY/Weather_Observation_Warning_8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL_QUERY/Weather_Observation_Warning_9.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
@@ -425,6 +476,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="10" column="71" lean-forward="false" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL_QUERY/Average_Population_Of_Each_Continent.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding />
         </state>
       </provider>
